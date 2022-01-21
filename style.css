@@ -1,0 +1,26 @@
+.genel{
+    border-style: solid;
+    border-color:blue;
+    height: 200px;
+    background-color: rgb(197, 240, 226);
+}
+#resim{
+
+    height: 150px;
+    width: 150px;
+    float: left;
+    padding: 25px;
+
+}
+p{
+
+    margin-left: 200px;
+    
+    
+}
+h1{
+    
+   margin-left: 200px;
+    
+}
+
